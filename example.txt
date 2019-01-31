@@ -5,3 +5,5 @@ But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
 But, then he switched from the darkside and started using Git and got an A in 213!
+
+He took his knowledge to embedded systems and controls.
